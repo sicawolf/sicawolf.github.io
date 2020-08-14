@@ -1,0 +1,34 @@
+body {
+    background-image: url(/images/night.jpg);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    margin: 20px;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+.container {
+    border: 5px dotted white;
+    padding: 20px;
+    background-color: #034f84;
+}
+
+a {
+    color: yellow;
+}
+
+a:hover {
+    color: pink;
+}
+
+ol li a {
+    font-weight: bold;
+}
